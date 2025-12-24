@@ -2,62 +2,67 @@
 
 <div align="center">
   
-### Full-stack developer passionate about building elegant solutions to complex problems
+### Data Scientist passionate about turning data into actionable insights
 
 I love exploring new technologies and contributing to open source projects.  
-Currently focused on **web development**, **cloud architecture**, and **machine learning applications**.
+Currently focused on **machine learning**, **data analysis**, and **statistical modeling**.
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hugo-morvan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9&icon_color=9745f5" alt="GitHub Stats" />
-</p>
 
 ---
 
 ## 💻 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hugo-morvan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9&icon_color=9745f5&langs_count=8" alt="Top Languages" />
-</p>
-
-### 📊 Alternative Language View
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugo-morvan&theme=radical" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugo-morvan&theme=radical" alt="Most Commit Language" />
 </p>
 
----
-
-## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugo-morvan&theme=radical&hide_border=true&background=0D1117&ring=9745f5&fire=9745f5&currStreakLabel=9745f5" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugo-morvan&theme=radical" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hugo-morvan&theme=radical" alt="Profile Details" />
 </p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ My Data Science Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</p>
+
+### Libraries & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 🔥 Recent Activity
+## 🔥 What I'm Working On
 
-- 🚀 Working on exciting new projects
-- 📚 Learning and experimenting with new technologies
-- 🤝 Open to collaboration and contributing to open source
-- 💡 Always exploring creative solutions to technical challenges
+- 📊 Building machine learning models for predictive analytics
+- 🧪 Experimenting with deep learning architectures
+- 📈 Creating data visualizations and interactive dashboards
+- 🤖 Exploring MLOps and model deployment strategies
+- 🤝 Contributing to open source data science projects
 
 ---
 
