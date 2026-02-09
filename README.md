@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<video src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/blob/main/media/hurdling_short.mp4" width="600" autoplay loop muted playsinline alt="3D Pose Estimation"></video>
+<video src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.mp4" width="600" autoplay loop muted playsinline alt="3D Pose Estimation"></video>
 
   
 ### Data Scientist passionate about turning data into actionable insights
