@@ -2,9 +2,7 @@
 
 <div align="center">
 
-![3D Pose Estimation Demo](https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/blob/main/media/hurdling_short.gif)
-Or with sizing:
-<img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/blob/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation">
+<video src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/blob/main/media/hurdling_short.mp4" width="600" autoplay loop muted playsinline alt="3D Pose Estimation"></video>
 
   
 ### Data Scientist passionate about turning data into actionable insights
