@@ -1,9 +1,12 @@
 # Hi there! 👋 Welcome to my GitHub
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation"/>
 
-<video src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.mp4" width="600" autoplay loop muted playsinline alt="3D Pose Estimation"></video>
-
+  <video width="600" controls>
+    <source src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.mp4" type="video/mp4">
+    <img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation"/>
+  </video>
   
 ### Data Scientist passionate about turning data into actionable insights
 
