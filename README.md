@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![3D Pose Estimation Demo](https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.gif)
+![3D Pose Estimation Demo](https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/blob/main/media/hurdling_short.gif)
 Or with sizing:
-<img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation">
+<img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/blob/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation">
 
   
 ### Data Scientist passionate about turning data into actionable insights
