@@ -8,11 +8,6 @@
     <img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation"/>
   </video>
   
-### Data Scientist passionate about turning data into actionable insights
-
-I love exploring new technologies and contributing to open source projects.  
-Currently focused on **machine learning**, **data analysis**, and **statistical modeling**.
-
 </div>
 
 ---
@@ -59,16 +54,6 @@ Currently focused on **machine learning**, **data analysis**, and **statistical 
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-## 🔥 What I'm Working On
-
-- 📊 Building machine learning models for predictive analytics
-- 🧪 Experimenting with deep learning architectures
-- 📈 Creating data visualizations and interactive dashboards
-- 🤖 Exploring MLOps and model deployment strategies
-- 🤝 Contributing to open source data science projects
 
 ---
 
