@@ -1,14 +1,5 @@
 # Hi there! 👋 Welcome to my GitHub
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation"/>
-
-  <video width="600" controls>
-    <source src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.mp4" type="video/mp4">
-    <img src="https://raw.githubusercontent.com/hugo-morvan/hugo-morvan/main/media/hurdling_short.gif" width="600" alt="3D Pose Estimation"/>
-  </video>
-  
-</div>
 
 ---
 
